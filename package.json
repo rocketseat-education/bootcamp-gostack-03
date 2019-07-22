@@ -11,6 +11,7 @@
     "@sentry/node": "5.4.3",
     "bcryptjs": "^2.4.3",
     "bee-queue": "^1.2.2",
+    "cors": "^2.8.5",
     "date-fns": "^2.0.0-alpha.36",
     "dotenv": "^8.0.0",
     "express": "^4.17.1",
